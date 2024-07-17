@@ -1,13 +1,13 @@
 ### Olá, pessoal 👋
 
 
-Meu nome é Ernania, mas podem me chamar de Nany 😄. Sou apaixonada por tecnologia✨ busco constantemente aprimorar minhas habilidades✨ Em 2023, ingressei na Cubos Academy. Atualmente, estou cursando Desenvolvimento de Software (Full Stack).
+Meu nome é Ernania Santos Santana, mas podem me chamar de Nany 😄. Sou apaixonada por tecnologia✨ busco constantemente aprimorar minhas habilidades✨ Em 2023, ingressei na Cubos Academy. Atualmente, estou cursando Desenvolvimento de Software (Full Stack).
 
 
 
 ### 🚀 Habilidades Técnicas:
 
-  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSSl](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node,js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![postgres](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/ac9cbb17-cbb2-4938-91e0-70f50c8ad82b) ![git](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/b92ba2eb-8d1b-485d-a638-5eed443e8ff0) ![GitHub](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/d2537aed-30c6-489e-9546-af839cda7750)
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSSl](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node,js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![postgres](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/ac9cbb17-cbb2-4938-91e0-70f50c8ad82b) ![git](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/b92ba2eb-8d1b-485d-a638-5eed443e8ff0) ![GitHub](https://github.com/ErnaniaSantos/ErnaniaSantos/assets/108555778/d2537aed-30c6-489e-9546-af839cda7750)
 
 
 
